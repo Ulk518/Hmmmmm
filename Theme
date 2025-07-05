@@ -367,8 +367,8 @@
         "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/ComicSans/ComicSans-SemiBold.ttf?raw=1"
     },
     "background": {
-        "blur": 2.0,
-        "url": "https://cdn.discordapp.com/attachments/1262406639210860705/1391015171006267452/Picsart_25-07-05_14-14-03-846.jpg?ex=686a5b54&is=686909d4&hm=92f871de50a2e9a2623f57987e5c3f6aaf01eae2bcf7904c4d612973a991235c&",
+        "blur": 1.1,
+        "url": "https://cdn.discordapp.com/attachments/1262406639210860705/1391021082743410739/1751715618706_xdt50v_2_1.jpg?ex=686a60d6&is=68690f56&hm=62a7451c356613daacfcc76dd906451d1f43e5315e218b12d1283a96ed3ae55b&",
         "OPACITY": 0
     },
     "plus": {
